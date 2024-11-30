@@ -1,8 +1,6 @@
 ## dminPanel Demo with Tailwind Theme
 
-Laravel adminpanel, with changed design to Tailwind CSS based on [tailwindcomponents/dashboard theme](https://github.com/tailwindcomponents/dashboard)
-
----
+## Laravel adminpanel, with changed design to Tailwind CSS
 
 ![QuickAdminPanel Tailwind Table](https://quickadminpanel.com/blog/wp-content/uploads/2020/09/Screen-Shot-2020-09-23-at-9.30.36-AM.png)
 
