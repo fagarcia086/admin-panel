@@ -1,4 +1,4 @@
-## dminPanel Demo with Tailwind Theme
+## AdminPanel Demo with Tailwind Theme
 
 ## Laravel adminpanel, with changed design to Tailwind CSS
 
